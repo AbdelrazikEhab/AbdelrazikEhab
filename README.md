@@ -1,165 +1,29 @@
-👋 Hi there, I'm Abdelrazik Ehab!
-🚀 Full-Stack Developer | Crafting Scalable & High-Performance Applications
-Welcome to my digital workshop! I'm a results-driven Computer Science graduate with 2+ years of hands-on experience in full-stack web development, specializing in Node.js, NestJS, Express.js, and MongoDB. I thrive on building robust, efficient, and user-centric solutions from concept to deployment.
+<h1 align="center">Hi 👋, I'm Abdelrazik Ehab</h1>
+<h3 align="center">A passionate Full-Stack developer from Egypt</h3>
 
-💡 About Me
-I'm passionate about bringing ideas to life through code. My journey in software development has equipped me with a strong foundation in both front-end aesthetics and back-end logic, allowing me to tackle complex challenges and deliver end-to-end solutions. I'm a firm believer in clean code, robust architecture, and continuous learning.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrazikehab&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrazikehab" /> </p>
 
-Problem Solver: Adept at dissecting complex issues and engineering innovative solutions.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrazikehab" alt="abdelrazikehab" /></a> </p>
 
-API Enthusiast: Successfully designed, optimized, and maintained RESTful APIs for seamless system communication.
+- 🌱 I’m currently learning **ASP.NET Core**
 
-Database Whisperer: Proficient in managing and optimizing SQL (MySQL, PostgreSQL, MS SQL Server, Supabase) and NoSQL (MongoDB, Redis) databases.
+- 👨‍💻 All of my projects are available at [https://github.com/AbdelrazikEhab?tab=repositories](https://github.com/AbdelrazikEhab?tab=repositories)
 
-Collaborator: A strong team player who enjoys working with stakeholders to deliver high-quality technical documentation and best practices.
+- 💬 Ask me about **NodeJS, NestJS**
 
-🛠️ My Toolkit (Tech Stack)
-Here's a glimpse into the technologies I wield to build powerful applications:
+- 📫 How to reach me **abdelrazikehab7@gmail.com**
 
-Languages:
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RYkYCDsGO0h6lkL3sXkFA4tIiNft1qxf/view?usp=sharing](https://drive.google.com/file/d/1RYkYCDsGO0h6lkL3sXkFA4tIiNft1qxf/view?usp=sharing)
 
-Backend Frameworks & Runtimes:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdelrazik-ehab-b5b678240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelrazik-ehab-b5b678240" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/trezga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/trezga/" height="30" width="40" /></a>
+</p>
 
-Databases:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-Frontend:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrazikehab&show_icons=true&locale=en&layout=compact" alt="abdelrazikehab" /></p>
 
-API & ORM:
-
-Tools & Practices:
-
-🌟 Featured Projects
-Here are some projects I'm particularly proud of, showcasing my diverse skill set. Click on the links to explore the code!
-
-🎓 E-Learning Platform - Graduation Project
-A comprehensive e-learning solution.
-
-Repository: [https://github.com/hassanelferga/go code.git](https://github.com/hassanelferga/go code.git)
-
-Highlights: Scalable architecture, user management, course content delivery.
-
-[Optional: Live Demo / Screenshot Placeholder]
-
-💬 Real-Time Chat Application
-A dynamic chat application with real-time messaging capabilities.
-
-Repository: https://github.com/AbdelrazikEhab/Chat-App.git
-
-Highlights: WebSockets for instant communication, user authentication.
-
-[Optional: Live Demo / Screenshot Placeholder]
-
-🛍️ E-Commerce Website
-A full-fledged e-commerce platform.
-
-Repository: https://github.com/AbdelrazikEhab/ECommerce.git
-
-Highlights: Product management, user authentication, payment processing integration.
-
-[Optional: Live Demo / Screenshot Placeholder]
-
-🛒 Shopping App
-A mobile-friendly shopping application.
-
-Repository: https://github.com/muhammedabdelkreim/shopping-app.git
-
-Highlights: Intuitive UI/UX, product browsing, cart functionality.
-
-[Optional: Live Demo / Screenshot Placeholder]
-
-✅ TodoList App
-A simple yet effective task management application.
-
-Repository: https://github.com/AbdelrazikEhab/Todo-App.git
-
-Highlights: CRUD operations, state management.
-
-[Optional: Live Demo / Screenshot Placeholder]
-
-📝 Blog API
-A robust API for a blogging platform.
-
-Repository: https://github.com/AbdelrazikEhab/Blog-Api.git
-
-Highlights: RESTful design, authentication, content management.
-
-[Optional: Live Demo / Screenshot Placeholder]
-
-🌐 IOT Platform
-An Internet of Things (IoT) platform.
-
-Repository: https://github.com/Omar-shaqra/IOT-platform.git
-
-Highlights: Data handling from IoT devices, real-time monitoring.
-
-[Optional: Live Demo / Screenshot Placeholder]
-
-💼 Professional Experience
-Full-Stack Developer, SmartUp (March 2025 - Present)
-Developed and maintained RESTful APIs using Node.js (Express/NestJS) for frontend and third-party integrations.
-
-Designed, optimized, and managed SQL databases (Microsoft SQL Server, MySQL, & Supabase), ensuring data integrity.
-
-Integrated Supabase for real-time database functionality, authentication, and scalable backend solutions.
-
-Collaborated with frontend developers to ensure seamless API consumption and efficient data flow.
-
-Improved backend performance by optimizing database queries, indexing strategies, and implementing caching mechanisms.
-
-Assisted in CI/CD pipeline setup for automated testing and deployment using GitHub Actions/Docker.
-
-Troubleshot and debugged backend issues, ensuring high availability and minimal downtime.
-
-Followed Agile/Scrum methodologies, participating in sprint planning, code reviews, and daily stand-ups.
-
-Technologies: Node.js, Express.js, SQL Server, MySQL, Supabase, REST APIs, Git, Docker, PostgreSQL, JWT, React, Vit, Prisma.
-
-🤝 Soft Skills
-Beyond the code, I bring a strong set of interpersonal and strategic skills:
-
-Problem-Solving
-
-Communication Skills
-
-Collaboration
-
-Self-Learning
-
-Teamwork
-
-Creativity
-
-Decision-Making
-
-Flexibility
-
-Stress Management
-
-Scalability
-
-Analytical Skills
-
-Business Strategies
-
-🌐 Connect with Me
-Let's connect and build something amazing!
-
-Email: abdelrazikehab7@gmail.com
-
-LinkedIn: www.linkedin.com/in/abdelrazik-ehab-b5b678240
-
-GitHub: AbdelrazikEhab
-
-<!-- GitHub Stats & Visitor Counter (Optional but recommended) -->
-
-<!-- You can add badges here to show your GitHub stats, languages, etc. -->
-
-<!-- Example: -->
-
-<!--  -->
-
-<!--  -->
-
-<!--  -->
-
-Thanks for visiting!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrazikehab&show_icons=true&locale=en" alt="abdelrazikehab" /></p>
