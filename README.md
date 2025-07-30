@@ -163,12 +163,43 @@ Results-driven Computer Science graduate with two years of experience in full-st
 
 ---
 
-This README incorporates the content from your CV. I've also retained the skill icons, social media badges, and activity graphs from your original prompt, as they contribute to a dynamic and visually engaging profile.
+## Pac-Man Contribution Graph Workflow
 
-Regarding "3D motivation" and further design changes, since I cannot directly generate 3D graphics or complex visual layouts, here are some suggestions for how you might achieve that:
+This section details the GitHub Actions workflow used to generate the animated Pac-Man contribution graph seen above. This workflow automates the creation and update of the `pacman-contribution-graph.svg` file in the `output` branch of this repository.
 
-* **Embed Interactive 3D Models**: If you have 3D models of your projects or concepts, you could host them on platforms like Sketchfab and embed them into your README using their provided embed codes.
-* **Animated SVGs/GIFs**: Create custom animated SVGs or GIFs that visually represent your skills or project progress.
-* **Personal Website Link**: Include a link to a personal portfolio website where you can implement more advanced interactive 3D elements and custom designs.
-* **Profile Readme Templates**: Explore existing GitHub Profile README templates for more design inspiration and advanced features that others have implemented.
+To implement this in your own GitHub profile README, you'll need to create a file (e.g., `pacman.yml`) in the `.github/workflows/` directory of your repository with the following content:
 
+```yaml
+name: Generate pacman animation
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+
+      - name: push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
